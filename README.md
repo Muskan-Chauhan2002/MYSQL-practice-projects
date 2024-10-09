@@ -7,4 +7,4 @@ This project involves analyzing a college placement dataset. Key tasks include:
 - Counting students placed.
 - Finding top recruiting companies.
 - Grouping salaries by region and analyzing salary distribution.
-The dataset used in this project is sourced from Kaggle: College Placement Data.
+

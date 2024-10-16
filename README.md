@@ -12,4 +12,5 @@ This project involves analyzing a college placement dataset. Key tasks include:
 This project involves analyzing an employee salary dataset using SQL to uncover insights into compensation trends, job titles, and employee distributions. The primary goals of this analysis are to:
 -Examine the overall salary structure and job titles.
 -Identify high earners and analyze their compensation.
--Assess variations in salary based on job roles and overtime pay.
+-Assess variations in salary based on job roles and overtime pay, and many more.
+

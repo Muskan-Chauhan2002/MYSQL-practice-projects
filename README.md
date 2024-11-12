@@ -14,3 +14,9 @@ This project involves analyzing an employee salary dataset using SQL to uncover 
 -Identify high earners and analyze their compensation.
 -Assess variations in salary based on job roles and overtime pay, and many more.
 
+3. Cars' Data
+This is a basic MySQL project designed to store and manage data related to cars. It includes information on car specifications, owners, maintenance records, and sales.
+-Store car details (selling price,, model, year, etc.)
+-Track the ownership status and distance travelled.
+-Manage car sales records.
+

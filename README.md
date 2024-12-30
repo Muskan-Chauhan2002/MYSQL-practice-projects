@@ -30,3 +30,10 @@ Dataset: The dataset includes information about Spotify tracks, albums, artists,
 - Window functions
 - Subqueries and Common Table Expressions (WITH clause)
 
+- # 5. University Admissions Data Analysis
+- This repository contains SQL queries for analyzing university admissions data in Russia for the years 2014-2023. The analysis focuses 
+  on extracting key insights related to admission trends, university performance, and field-of-study popularity.
+  
+
+
+

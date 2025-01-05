@@ -34,6 +34,12 @@ Dataset: The dataset includes information about Spotify tracks, albums, artists,
 - This repository contains SQL queries for analyzing university admissions data in Russia for the years 2014-2023. The analysis focuses 
   on extracting key insights related to admission trends, university performance, and field-of-study popularity.
   
-
+- # 6. Walmart Sales Data Analysis 📊
+- This repository contains an SQL analysis of Walmart Sales Data, covering various insights related to products, customers, and sales trends.
+- # SQl skilles covered:
+- Standardized column names for consistency.
+- Categorized time of sales into Morning, Afternoon, and Evening (Using CASE to categorize sales time.)
+- Classifying product performance as "Good" or "Bad" based on sales.
+- Extracting month names from dates (DATE_FORMAT()), Etc.
 
 

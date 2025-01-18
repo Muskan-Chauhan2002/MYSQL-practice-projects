@@ -1,3 +1,19 @@
+📊 GitHub Stats
+![Muskan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muskan-Chauhan2002&show_icons=true&theme=radical)
+
+🎯 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muskan-Chauhan2002&layout=compact&theme=tokyonight)
+
+📈 GitHub Activity Graph
+![Muskan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Muskan-Chauhan2002&theme=react-dark)
+
+🛠 Skills & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+
+
 # MYSQL-practice-projects
 This repository contains a collection of my practice projects across SQL. Each project is aimed at enhancing my skills and showcasing practical applications of various tools and techniques I've learned.
 

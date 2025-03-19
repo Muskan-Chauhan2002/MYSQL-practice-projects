@@ -42,4 +42,8 @@ Dataset: The dataset includes information about Spotify tracks, albums, artists,
 - Classifying product performance as "Good" or "Bad" based on sales.
 - Extracting month names from dates (DATE_FORMAT()), Etc.
 
+- # 7. Food Order SQL Queries
+- This project contains SQL queries designed to analyze and manage food order data. The queries are used to extract insights from an order 
+- history dataset, including order details, customer behavior, and business trends.
+
 
